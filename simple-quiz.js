@@ -1,0 +1,6 @@
+
+$(function($){
+
+  quiz.startQuiz();
+
+});

@@ -1,4 +1,4 @@
-
+//Lexical Scope
 var babelFish = function( hello ){
 
   var sayHiFish = function( name ){
